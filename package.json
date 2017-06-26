@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Ake Tangkananond <ake@sanook.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "lodash": "^4.17.4",
     "moment-timezone": "^0.5.13"
